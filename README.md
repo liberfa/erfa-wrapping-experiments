@@ -18,6 +18,4 @@ Use the standard ``python setup.py install`` to install these experiments.
 Usage
 =====
 
-    ```python
     import erfa.cython_numpy as erfa
-    ```
